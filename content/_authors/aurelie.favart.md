@@ -3,12 +3,12 @@ fullname: aurelie favart
 role: Product Owner / Manager 
 domaine: Produit
 missions:
-  - start: 2021-05-20
-    end: 2022-12-21
+  - start: 2021-03-01
+    end:
     status: service
     employer: octo
 startups:
-  - monstage
+  - REVA
 ---
 
 Product Owner / Manager 
